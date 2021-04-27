@@ -31,7 +31,7 @@ SET "_MENU_ICON_NAME=terminal.ico"
 SET "_MENU_ICON_FPATH=%LOCALAPPDATA%\Windows_Terminal_CM"
 
 SET "_WINDOWS_TERMINAL_PATH=%LOCALAPPDATA%\Microsoft\WindowsApps\wt.exe"
-SET "_WINDOWS_TERMINAL_ARGUMENTS=\"-d\" \"%%V\""
+SET "_WINDOWS_TERMINAL_ARGUMENTS=\"-w\" \"0\" \"nt\" \"-d\" \"%%V\""
 
 SET "_REG_KEY=Windows Terminal CM"
 SET "_REG_MENU_NAME=Open Windows Terminal here"
