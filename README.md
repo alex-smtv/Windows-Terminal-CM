@@ -5,7 +5,7 @@ A File Explorer Context Menu Integration.
 
 ![Demo](./res/demo.png)
 
-Add a custom context menu when you right click inside your File Explorer in Windows to allow an easy access to the [Windows Terminal](https://github.com/microsoft/terminal). The Windows Terminal will be opened within the current or selected directory.
+Add a custom context menu when you right click inside your File Explorer in Windows to allow an easy access to the [Windows Terminal](https://github.com/microsoft/terminal). The Windows Terminal will be opened within the current or selected directory. If a Windows Terminal session is already running, a new tab will be opened inside instead.
 
 ## How to use
 
